@@ -1,0 +1,5 @@
+Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-05-31,36.45,36.65,36.0,36.65,150807,0.2,0.65,0.55,1.77,0.32,,,,,,44592,,,,,,,,,,,,,,,
+2023-05-30,37.0,37.0,35.0,35.51,381156,-1.49,2.0,-4.2,5.63,1.0,,,,,,-106215,,,,,,,,,,,,,,,
+2023-05-26,39.0,39.45,37.5,37.68,74737,-1.32,1.95,-3.5,5.18,0.98,,,,,,274941,,,,,,,,,,,,,,,
+2023-05-25,40.8,41.0,38.0,39.4,349678,-1.4,3.0,-3.55,7.61,1.5,,,,,,349678,,,,,,,,,,,,,,,
