@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-07-07,0.73,0.78,0.73,0.77,14576,0.04,0.05,5.13,6.5,0.03,0.74,0.75,0.0,0.0,0.0,67429650,0.61,53.33,26.67,1.0,26.67,Weak Buy Signal,0.84,0.74,0.63,0.29,48.29,Target Volume,Expected Range,7.93,Absent or Weak Trend
 2023-07-06,0.76,0.76,0.7,0.73,1786,-0.03,0.06,-4.11,8.21,0.03,0.74,0.75,0.0,0.0,0.0,67415074,1.12,55.0,28.33,1.0,26.67,Weak Buy Signal,0.84,0.74,0.63,0.29,46.83,Target Volume,Expected Range,8.05,Absent or Weak Trend
 2023-07-05,0.76,0.76,0.7,0.76,9032,0.0,0.06,0.0,7.63,0.03,0.74,0.75,0.0,0.0,0.0,67416860,0.96,56.67,30.0,1.0,26.67,Weak Buy Signal,0.85,0.74,0.63,0.3,47.84,Target Volume,Expected Range,8.17,Absent or Weak Trend
 2023-07-03,0.75,0.77,0.75,0.76,4104,0.01,0.02,1.08,2.64,0.01,0.74,0.75,0.0,0.0,0.0,67407828,3.2,58.33,31.67,1.0,26.67,Weak Buy Signal,0.85,0.74,0.63,0.3,47.77,Target Volume,Expected Range,8.29,Absent or Weak Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-02-15,0.8,0.82,0.79,0.82,18162,0.01,0.03,1.52,3.67,0.01,0.81,0.9,0.01,0.01,0.0,67348790,15.24,0.0,45.0,-1.0,-45.0,Weak Sell Signal,1.06,0.81,0.56,0.61,42.17,Target Volume,Expected Range,12.3,Absent or Weak Trend
 2023-02-14,0.8,0.82,0.8,0.82,3918,0.02,0.02,1.96,2.43,0.01,0.81,0.9,0.01,0.01,0.0,67366952,14.76,0.0,46.67,-1.0,-46.67,Weak Sell Signal,1.07,0.81,0.56,0.62,42.23,Target Volume,Expected Range,12.25,Absent or Weak Trend
 2023-02-13,0.8,0.82,0.79,0.82,20201,0.02,0.03,2.44,3.65,0.01,0.82,0.9,0.01,0.01,0.0,67370870,14.76,0.0,48.33,-1.0,-48.33,Weak Sell Signal,1.08,0.82,0.56,0.64,42.23,Target Volume,Expected Range,12.21,Absent or Weak Trend
-2023-02-10,0.8,0.8,0.74,0.79,22195,-0.01,0.06,-1.27,8.22,0.03,0.82,0.91,0.01,0.01,0.01,67350669,16.05,0.0,50.0,-1.0,-50.0,Weak Sell Signal,1.1,0.82,0.54,0.68,41.39,Target Volume,Expected Range,12.16,Absent or Weak Trend
